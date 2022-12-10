@@ -10,8 +10,6 @@ https://roadmap.sh/python
 
 https://realpython.com/start-here/
 
-<br>
-
 ## Data Structures & Algorigthms -> 
 
 https://leetcode.com/explore/
@@ -32,8 +30,6 @@ Pepcoding --> https://www.youtube.com/@Pepcoding
 
 HelloWorld by Prince --> https://www.youtube.com/@HelloWorldbyprince
 
-<br>
-
 ## Object Oriented Programming
 
 https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc
@@ -42,15 +38,11 @@ https://realpython.com/python3-object-oriented-programming/
 
 https://www.programiz.com/python-programming/object-oriented-programming
 
-<br>
-
 ## Linux
 
 https://youtu.be/iwolPf6kN-k
 
 https://github.com/mxssl/sre-interview-prep-guide#linux
-
-<br>
 
 ## Web Development
 
@@ -63,8 +55,6 @@ https://www.fullstackpython.com/flask.html
 
 https://realpython.com/python-web-applications-with-flask-part-i/
 
-<br>
-
 ## Networking
 
 Computer Networking Kunal Kushwaha - https://www.youtube.com/watch?v=IPvYjXCsTg8
@@ -73,27 +63,20 @@ AWS Networking - https://www.youtube.com/watch?v=4QoFt8so9hI
 
 https://github.com/mxssl/sre-interview-prep-guide#networking
 
-<br>
-
 ## Docker
 
 Docker - Programming with Mosh - https://youtu.be/pTFZFxd4hOI
 
 Docker - TechWorld with Nana - https://www.youtube.com/watch?v=3c-iBn73dDE
 
-<br>
-
 ## AWS
 
 TBD
 
-<br>
 
 ## Kubernetes
 
 TBD
-
-<br>
 
 ## Troubleshooting
 
