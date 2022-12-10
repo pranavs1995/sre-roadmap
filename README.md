@@ -1,5 +1,7 @@
 # Site Reliability Engineering
 
+https://sre.google/
+
 https://roadmap.sh/devops
 
 https://blog.alicegoldfuss.com/how-to-get-into-sre/
@@ -77,6 +79,20 @@ TBD
 ## Kubernetes
 
 TBD
+
+## System Design
+
+Desigining Data Intensive Applications - https://github.com/jeffrey-xiao/papers/blob/master/textbooks/designing-data-intensive-applications.pdf
+
+Arpit Bhayani - https://www.youtube.com/@AsliEngineering
+
+https://arpitbhayani.me/blogs/
+
+CodeKarle System Design - https://www.youtube.com/@codeKarle/playlists
+
+ByteByteGo - Alex Xu - https://www.youtube.com/@ByteByteGo
+
+Gaurav Sen System Design - https://www.youtube.com/@gkcs
 
 ## Troubleshooting
 
