@@ -1,10 +1,13 @@
 # Site Reliability Engineering
 
-https://sre.google/
+https://linkedin.github.io/school-of-sre/
 
 https://roadmap.sh/devops
 
+https://linkedin.github.io/school-of-sre/
+
 https://blog.alicegoldfuss.com/how-to-get-into-sre/
+
 
 ## Python
 
@@ -93,6 +96,10 @@ CodeKarle System Design - https://www.youtube.com/@codeKarle/playlists
 ByteByteGo - Alex Xu - https://www.youtube.com/@ByteByteGo
 
 Gaurav Sen System Design - https://www.youtube.com/@gkcs
+
+## CI/CD
+
+## Alerting & Monitoring
 
 ## Troubleshooting
 
