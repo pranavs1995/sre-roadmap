@@ -101,6 +101,8 @@ Gaurav Sen System Design - https://www.youtube.com/@gkcs
 
 ## Alerting & Monitoring
 
+https://samber.github.io/awesome-prometheus-alerts/
+
 ## Troubleshooting
 
 https://github.com/mxssl/sre-interview-prep-guide#troubleshooting
