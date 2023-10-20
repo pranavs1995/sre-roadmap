@@ -8,6 +8,8 @@ https://linkedin.github.io/school-of-sre/
 
 https://blog.alicegoldfuss.com/how-to-get-into-sre/
 
+https://github.com/bregman-arie/devops-exercises
+
 
 ## Python
 
